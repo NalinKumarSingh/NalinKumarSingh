@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nalin-singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank](https://www.linkedin.com/in/nalin-singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nalin-singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/Nalin Singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank](https://www.linkedin.com/in/nalin-singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nalin-singh-497a91134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/nal1n_s1ngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nal1n_s1ngh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nal1ns1ngh/](https://leetcode.com/Nal1nS1ngh/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nal1ns1ngh/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/Nal1nS1ngh/](https://leetcode.com/Nal1nS1ngh/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Nal1nS1ngh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
